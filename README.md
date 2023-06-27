@@ -1,23 +1,17 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# MyQuotes
 
-# InspoQuotes
+## What I've made
 
+MyQuotes is a freemium app that gives free inspiration and a lot of paid inspiration. The project is based on the InspoQuotes app from App Brewery's
 
-## What you will create
+## What I learn
 
-InspoQuotes is a freemium app that gives some free inspiration and a lot of paid inspiration.  
+- How to setup new in-app purchases on App Store Connect
+- How to use the StoreKit API to allow users to purchase premium content
+- How to use the StoreKit API to detect failure cases
+- How to use the StoreKit API to restore in-app purchases
+- How to persist the state of users' purchases
 
-## What you will learn
+> This is a project made from The App Brewery's Complete App Developement Bootcamp, check out at [www.appbrewery.co](https://www.appbrewery.co/)
 
-* How to setup new in-app purchases on App Store Connect
-* How to use the StoreKit API to allow users to purchase premium content
-* How to use the StoreKit API to detect failure cases
-* How to use the StoreKit API to restore in-app purchases
-* How to persist the state of users' purchases
-
-
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+![MyQuotes Banner](Documentation/iphoneappmyquotes.png)
