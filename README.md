@@ -12,6 +12,6 @@ MyQuotes is a freemium app that gives free inspiration and a lot of paid inspira
 - How to use the StoreKit API to restore in-app purchases
 - How to persist the state of users' purchases
 
-> This is a project made from The App Brewery's Complete App Developement Bootcamp, check out at [www.appbrewery.co](https://www.appbrewery.co/)
-
 ![MyQuotes Banner](Documentation/iphoneappmyquotes.png)
+
+> This is a project made from The App Brewery's Complete App Developement Bootcamp, check out at [www.appbrewery.co](https://www.appbrewery.co/)
